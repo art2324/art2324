@@ -24,19 +24,6 @@ I enjoy turning theory into real-world solutions, from coding ML pipelines to ex
 
 ---
 
-## Featured Project
-### 🛡 AI Governance & Compliance Platform
-Contributing developer in a real-world project that delivers:
-
-- Automated risk management for AI/ML pipelines  
-- DevSecOps security checks integrated into CI/CD  
-- Governance by design: explainability, auditability, and compliance with ISO/IEC 42001, AI Act, and GDPR/LGPD  
-- Modules for LLM security, monitoring, and evaluation  
-
-📌 Check the project repository [here](https://github.com/art2324/learning-journey)
-
----
-
 ## Current Learning Journey
 - *University of the People* → Computer Science  
 - *WorldQuant University* → Applied Data Science Lab & Applied AI Lab (Computer Vision)  
@@ -46,7 +33,7 @@ Contributing developer in a real-world project that delivers:
 
 ## Let's Connect
 - GitHub: [@art2324](https://github.com/art2324)  
-- LinkedIn: (to be added)  
+- LinkedIn: (Artur Everton](https://www.linkedin.com/in/artur-a-everton-434bb237b/)  
 - Email: (to be added)  
 
 ⭐ Always curious. Always building. Always learning.
